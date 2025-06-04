@@ -1,4 +1,3 @@
-
 import React, { useState } from 'react';
 import { Button } from "@/components/ui/button";
 import { Textarea } from "@/components/ui/textarea";
@@ -86,7 +85,7 @@ const Index = () => {
               <BookOpen className="h-6 w-6 text-white" />
             </div>
             <div>
-              <h1 className="text-2xl font-bold text-gray-900">Academic Text Summarizer</h1>
+              <h1 className="text-2xl font-bold text-gray-900">Easy Summarizer</h1>
               <p className="text-gray-600">AI-powered tool to help students understand complex academic materials</p>
             </div>
           </div>
